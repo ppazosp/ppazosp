@@ -13,38 +13,6 @@
 
 <hr>
 
-## 📚 Repos
-
-<br>
-
-<table align="center" style="border:none;">
-  <tr>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter&theme=dark" alt="ppazosp's Interpppreter" />
-    </td>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=WhispClient&theme=dark" alt="ppazosp's WhispClient" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=netglobe&theme=dark" alt="ppazosp's netglobe" />
-    </td>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=oNote&theme=dark" alt="ppazosp's oNote" />
-    </td>
-  </tr>
-  <tr>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=SrFreiRe&repo=wearendar&theme=dark" alt="SrFreiRe's wearendar" />
-    </td>
-    <td style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=oMedApp&theme=dark" alt="ppazosp's oMedApp" />
-    </td>
-  </tr>
-</table>
-
-<hr>
 
 ## 🛠️ Languages and Tools
 
