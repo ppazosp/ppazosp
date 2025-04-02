@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,github,gradle,html,css,js,jquery,threejs,idea,java,spring,supabase,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,vscode" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,github,gradle,html,css,js,jquery,threejs,idea,java,spring,supabase,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,vscode&perline=13" />
 </p>
 
 <hr>
@@ -38,7 +38,6 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ppazosp's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ppazosp&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ppazosp's" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=ppazosp&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ppazosp's Most Used Languages" />
 </div>
 
