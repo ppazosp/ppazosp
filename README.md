@@ -11,6 +11,18 @@
   </a>
 </div>
 
+<hr>
+
+## 📚 Repos
+
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
 
 <hr>
