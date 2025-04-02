@@ -1,4 +1,4 @@
-<img src="https://github.com/ppazosp/ppazosp/blob/main/header.png" alt="ppazosp's github banner">
+
 
 <br>
 
