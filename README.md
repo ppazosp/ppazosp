@@ -19,7 +19,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,css,debian,flask,git,github,gradle,html,idea,java,js,kotlin,ktor,latex,linux,mongodb,postgres,py,rabbitmq,spring,supabase,threejs,vscode&perline=13&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,css,debian,flask,git,github,gradle,html,idea,java,js,kotlin,ktor,latex,linux,mongodb,postgres,py,rabbitmq,spring,supabase,threejs,vscode&perline=13&theme=light" />
 </p>
 
 <hr>
