@@ -1,7 +1,4 @@
 <img src="https://github.com/ppazosp/ppazosp/blob/main/header.png" alt="ppazosp's github banner">
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFFF&duration=4000&lines=A+generalist+among+specialists!;" />
-</h1>
 
 <br>
 
