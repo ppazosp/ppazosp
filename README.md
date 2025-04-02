@@ -11,6 +11,8 @@
   </a>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
+
 <hr>
 
 ## 🛠️ Languages and Tools
