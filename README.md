@@ -28,7 +28,7 @@
 <br>
 
 <div align=center>
-  <!--<img height=192 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=transparent&count_private=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="ppazosp's GitHub Stats" />-->
+  <img height=192 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=transparent&count_private=true&border_radius=10&show_icons=true&locale=en" alt="ppazosp's GitHub Stats" />
   <img width=374 src="https://github-readme-stats.vercel.app/api/top-langs?username=ppazosp&theme=transparent&layout=compact&hide=css&langs_count=6&border_radius=10&show_icons=true&locale=en" alt="ppazosp's Most Used Languages" />
 </div>
 
