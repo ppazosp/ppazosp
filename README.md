@@ -17,13 +17,10 @@
 
 <br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter)](https://github.com/ppazosp/Interpppreter)
+<div align=center>
+  <img height=192 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter" alt="ppazosp's Interpppreter" />
+  <img height=192 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=WhispClient" alt="ppazosp's WhispClient" />
+</div>
 
 <hr>
 
