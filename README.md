@@ -18,8 +18,8 @@
 <br>
 
 <div align=center>
-  <img height=192 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter" alt="ppazosp's Interpppreter" />
-  <img height=192 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=WhispClient" alt="ppazosp's WhispClient" />
+  <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter" alt="ppazosp's Interpppreter" />
+  <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=WhispClient" alt="ppazosp's WhispClient" />
 </div>
 
 <hr>
