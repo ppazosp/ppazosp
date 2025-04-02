@@ -20,6 +20,10 @@
 <div align=center>
   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=Interpppreter&theme=dark" alt="ppazosp's Interpppreter" />
   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=WhispClient&theme=dark" alt="ppazosp's WhispClient" />
+   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=netglobe&theme=dark" alt="ppazosp's netglobe" />
+   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=oNote&theme=dark" alt="ppazosp's oNote" />
+   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=SrFreiRe&repo=wearendar&theme=dark" alt="SrFreiRe's wearendar" />
+   <img height=128 src="https://github-readme-stats.vercel.app/api/pin/?username=ppazosp&repo=oMedApp&theme=dark" alt="ppazosp's oMedApp" />
 </div>
 
 <hr>
