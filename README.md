@@ -28,8 +28,8 @@
 <br>
 
 <div align=center>
-  <img height=256 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=transparent&count_private=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="ppazosp's GitHub Stats" />
-  <img height=256 src="https://github-readme-stats.vercel.app/api/top-langs?username=ppazosp&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ppazosp's Most Used Languages" />
+  <img height=192 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=transparent&count_private=true&border_radius=10&show_icons=true&rank_icon=github&locale=en" alt="ppazosp's GitHub Stats" />
+  <img height=128 src="https://github-readme-stats.vercel.app/api/top-langs?username=ppazosp&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ppazosp's Most Used Languages" />
 </div>
 
 <hr>
