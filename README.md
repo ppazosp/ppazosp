@@ -1,8 +1,3 @@
-#<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/ppazosp/count.svg" alt="Visitor's Count" />
-</div>
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+ppazosp+!;" />
 </h1>
@@ -27,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,github,gradle,html,css,js,jquery,threejs,idea,java,spring,supabase,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,vscode&perline=13" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,github,gradle,html,css,js,threejs,idea,java,spring,supabase,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,vscode&perline=14" />
 </p>
 
 <hr>
@@ -42,3 +37,8 @@
 </div>
 
 <hr>
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/ppazosp/count.svg" alt="Visitor's Count" />
+</div>
