@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,css,github,gradle,html,ide,java,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,spring,supabase,threejs,vscode&perline=11" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,apple,bash,c,css,github,gradle,html,idea,java,js,kotlin,ktor,latex,linux,mongodb,postgres,rabbitmq,spring,supabase,threejs,vscode&perline=11" />
 </p>
 
 <hr>
