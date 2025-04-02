@@ -27,10 +27,12 @@
 
 <br>
 
-<div align=center>
-  <img height=192 src="https://github-readme-stats.vercel.app/api?username=ppazosp&theme=dark&count_private=true&border_radius=10&show_icons=true&locale=en" alt="ppazosp's GitHub Stats" />
-  <img height=192 src="https://github-readme-stats.vercel.app/api/top-langs?username=ppazosp&theme=dark&layout=compact&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ppazosp's Most Used Languages" />
-</div>
+<a href="https://github-readme-stats.vercel.app/api?username=ppazos">
+  <img height=192 align="center" src="https://github-readme-stats.vercel.app/api?username=ppazos" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs">
+  <img height=192 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <hr>
 
