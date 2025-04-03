@@ -1,6 +1,10 @@
 <img src="https://github.com/ppazosp/ppazosp/blob/main/header.png" alt="ppazosp's github banner">
 
->*_“Flectere si nequeo superos, Acheronta movebo.”_*
+<div align="center">
+  <h3>
+    <i>Details matter</i>
+  </h3>
+</div>
 
 <br>
 
