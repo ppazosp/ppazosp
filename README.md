@@ -12,10 +12,11 @@
 
 <div align="center">
   <a href="mailto:pablopazosp3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=FF4D00" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="32" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/pablo-pazos-parada" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=FF4D00" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="32" />
   </a>
 </div>
 
