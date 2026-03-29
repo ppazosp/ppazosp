@@ -22,8 +22,7 @@
 <br>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ppazosp&show_icons=true&bg_color=050505&title_color=FF4D00&icon_color=FF4D00&text_color=F0F0F0&border_color=1c1c1c&count_private=true" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=ppazosp&background=050505&ring=FF4D00&fire=FF4D00&currStreakLabel=FF4D00&sideLabels=F0F0F0&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=888888&border=1c1c1c" />
+<img height="180" src="https://streak-stats.demolab.com/?user=ppazosp&background=050505&ring=FF4D00&fire=FF4D00&currStreakLabel=FF4D00&sideLabels=F0F0F0&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=888888&border=1c1c1c" />
 </div>
 
 <br>
