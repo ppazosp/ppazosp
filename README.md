@@ -20,9 +20,3 @@
 </div>
 
 <br>
-
-<div align="center">
-<img height="180" src="https://streak-stats.demolab.com/?user=ppazosp&background=050505&ring=FF4D00&fire=FF4D00&currStreakLabel=FF4D00&sideLabels=F0F0F0&currStreakNum=F0F0F0&sideNums=F0F0F0&dates=888888&border=1c1c1c" />
-</div>
-
-<br>
